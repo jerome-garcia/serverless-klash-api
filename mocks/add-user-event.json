@@ -1,0 +1,9 @@
+{
+    "body": "{\"name\":\"Jerome Garcia\",\"ranking\":\"1\",\"points\":\"950\"}",
+    "requestContext": {
+        "identity": {
+            "cognitoIdentityId": "USER-SUB-1234"
+        },
+        "ranking": "1"
+    }
+}

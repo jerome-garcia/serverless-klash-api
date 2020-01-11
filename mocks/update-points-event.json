@@ -1,0 +1,6 @@
+{
+    "body": "{\"points\":\"1050\"}",
+    "pathParameters": {
+        "cognitoIdentityId": "USER-SUB-1234"
+    }
+}
